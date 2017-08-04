@@ -1,0 +1,7 @@
+uk/gov/ons/ctp/common/rest/FakeDTO.class
+uk/gov/ons/ctp/common/rest/RestClientTest.class
+uk/gov/ons/ctp/common/state/TestStateTransitionManager.class
+uk/gov/ons/ctp/common/distributed/DistributedLockManagerRedissonImplTest.class
+uk/gov/ons/ctp/common/state/TestEvent.class
+uk/gov/ons/ctp/common/state/TestState.class
+uk/gov/ons/ctp/common/error/CTPExceptionTest.class
