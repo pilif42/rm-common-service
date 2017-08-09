@@ -1,5 +1,4 @@
 /Users/philippebrossier/code_perso/rm-common-service/framework/src/main/java/uk/gov/ons/ctp/common/util/RetryCommand.java
-/Users/philippebrossier/code_perso/rm-common-service/framework/src/main/java/uk/gov/ons/ctp/common/xml/Input.java
 /Users/philippebrossier/code_perso/rm-common-service/framework/src/main/java/uk/gov/ons/ctp/common/health/ScheduledHealthInfo.java
 /Users/philippebrossier/code_perso/rm-common-service/framework/src/main/java/uk/gov/ons/ctp/common/distributed/DistributedLatchManagerRedissonImpl.java
 /Users/philippebrossier/code_perso/rm-common-service/framework/src/main/java/uk/gov/ons/ctp/common/distributed/DistributedListManagerRedissonImpl.java
@@ -19,14 +18,11 @@
 /Users/philippebrossier/code_perso/rm-common-service/framework/src/main/java/uk/gov/ons/ctp/common/retry/CTPUnknownHostRetryPolicy.java
 /Users/philippebrossier/code_perso/rm-common-service/framework/src/main/java/uk/gov/ons/ctp/common/error/CTPException.java
 /Users/philippebrossier/code_perso/rm-common-service/framework/src/main/java/uk/gov/ons/ctp/common/rest/RestClientConfig.java
-/Users/philippebrossier/code_perso/rm-common-service/framework/src/main/java/uk/gov/ons/ctp/common/xml/XsdResourceResolver.java
 /Users/philippebrossier/code_perso/rm-common-service/framework/src/main/java/uk/gov/ons/ctp/common/distributed/DistributedAtomicLong.java
 /Users/philippebrossier/code_perso/rm-common-service/framework/src/main/java/uk/gov/ons/ctp/common/rest/RestError.java
-/Users/philippebrossier/code_perso/rm-common-service/framework/src/main/java/uk/gov/ons/ctp/common/xml/XmlValidationEventHandler.java
 /Users/philippebrossier/code_perso/rm-common-service/framework/src/main/java/uk/gov/ons/ctp/common/distributed/DistributedLatchManager.java
 /Users/philippebrossier/code_perso/rm-common-service/framework/src/main/java/uk/gov/ons/ctp/common/distributed/DistributedInstanceManagerRedissonImpl.java
 /Users/philippebrossier/code_perso/rm-common-service/framework/src/main/java/uk/gov/ons/ctp/common/util/DeadLetterLogCommand.java
-/Users/philippebrossier/code_perso/rm-common-service/framework/src/main/java/uk/gov/ons/ctp/common/xml/ValidatingXmlUnmarshaller.java
 /Users/philippebrossier/code_perso/rm-common-service/framework/src/main/java/uk/gov/ons/ctp/common/rest/CTPIOException.java
 /Users/philippebrossier/code_perso/rm-common-service/framework/src/main/java/uk/gov/ons/ctp/common/rest/RestClientErrorHandler.java
 /Users/philippebrossier/code_perso/rm-common-service/framework/src/main/java/uk/gov/ons/ctp/common/error/InvalidRequestException.java
